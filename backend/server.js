@@ -1,0 +1,1 @@
+import { animalRoutes} from '../backend/routes/animalRoutes.js'

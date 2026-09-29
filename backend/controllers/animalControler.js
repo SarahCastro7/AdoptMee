@@ -1,0 +1,1 @@
+import {animalService} from '../service/animalService'
